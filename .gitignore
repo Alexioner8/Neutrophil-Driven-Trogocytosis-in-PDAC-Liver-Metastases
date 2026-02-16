@@ -5,8 +5,8 @@
 
 # Large outputs
 *.svg
+*.png
 *.data
-*.xlsx
 *.tsv
 *.rds
 
