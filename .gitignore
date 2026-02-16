@@ -1,0 +1,16 @@
+# R session files
+.Rhistory
+.RData
+.Rproj.user
+
+# Large outputs
+*.svg
+*.data
+*.xlsx
+*.tsv
+*.rds
+
+# Temporary
+*~
+.DS_Store
+
